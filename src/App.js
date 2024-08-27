@@ -39,6 +39,7 @@ function App() {
     name: "John",
     age: 20,
   }
+  console.log("Test");
   return (
     <div className="App">
       <Provider store={Store}>
